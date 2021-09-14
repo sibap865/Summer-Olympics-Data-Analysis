@@ -1,6 +1,7 @@
 # Summer-Olympics-Data-Analysis
 In this project we will go through the Summer Olympics Data  and do analysis of Gold medalist ,athletes,sport,City and Event 
 ### Intro to dataset
+### link to kaggle datset: https://www.kaggle.com/divyansh22/summer-olympics-medals
 * When the Olympics held (Year),
 * Which city the sport is played by them,
 * name of 43 Sports
