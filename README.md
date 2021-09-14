@@ -28,3 +28,5 @@ In this project we will go through the Summer Olympics Data  and do analysis of 
  you can do all question by manual and using function i have explained in code
 ## About me
 I am sibaprasad pursuing B.tech in branch of Electrical and Electronics .Learning Artificial intelegence ,Machine learning ,Computer Vision to utilze in the field of Robotics
+#### link to follow
+linkedin-https://www.linkedin.com/in/siba-prasad-98043b1ba
